@@ -9,15 +9,19 @@ Project doesnt have any memory leaks, I have check them by the help of (valgrind
 1. You need to be familiar with linked list structure.
 
 https://www.youtube.com/watch?v=uBZHMkpsTfg&list=PLfqABt5AS4FmXeWuuNDS3XGENJO1VYGxl
+
 2. Next step to understand the concept of working sorting algorithm.
 
 https://medium.com/@ayogun/push-swap-c1f5d2d41e97
+
 3. Then I highly recomend you to watch the video from Oceano about Push_Swap.
 
 https://www.youtube.com/watch?v=OaG81sDEpVk&t=2945s
+
 4. Also you need to knowhow to search the memory leaks in your program, for that tast I used the valgrind.
 
 https://valgrind.org/docs/manual/mc-manual.html
+
 5. And finally I'll left here the link for the usefull sources (not only for Push Swap, but also for all the rest projects).
 
 https://github.com/jotavare/42-resources   

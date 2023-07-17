@@ -6,7 +6,7 @@ Project doesnt have any memory leaks, I have check them by the help of (valgrind
 
 # First of all,I want to share the usefull resorces for this project :
 
-# 1. You need to be familiar with linked list structure.'\n'
+# 1. You need to be familiar with linked list structure."\n"
 https://www.youtube.com/watch?v=uBZHMkpsTfg&list=PLfqABt5AS4FmXeWuuNDS3XGENJO1VYGxl
 # 2. Next step to understand the concept of working sorting algorithm.\n
 https://medium.com/@ayogun/push-swap-c1f5d2d41e97

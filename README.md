@@ -6,25 +6,21 @@ Project doesnt have any memory leaks, I have check them by the help of (valgrind
 
 # First of all,I want to share the usefull resorces for this project :
 
-1. You need to be familiar with linked list structure.
+# 1. You need to be familiar with linked list structure.\n
 https://www.youtube.com/watch?v=uBZHMkpsTfg&list=PLfqABt5AS4FmXeWuuNDS3XGENJO1VYGxl
-2. Next step to understand the concept of working sorting algorithm.
+# 2. Next step to understand the concept of working sorting algorithm.\n
 https://medium.com/@ayogun/push-swap-c1f5d2d41e97
-3. Then I highly recomend you to watch the video from Oceano about Push_Swap.
+# 3. Then I highly recomend you to watch the video from Oceano about Push_Swap.\n
 https://www.youtube.com/watch?v=OaG81sDEpVk&t=2945s
-4. Also you need to knowhow to search the memory leaks in your program, for that tast I used the valgrind.
+# 4. Also you need to knowhow to search the memory leaks in your program, for that tast I used the valgrind.\n
 https://valgrind.org/docs/manual/mc-manual.html
-5. And finally I'll left here the link for the usefull sources (not only for Push Swap, but also for all the rest projects).
+# 5. And finally I'll left here the link for the usefull sources (not only for Push Swap, but also for all the rest projects).\n
 https://github.com/jotavare/42-resources   
 
-# Sort a random list of integers using the smallest number of moves, 2 stacks and a limited set of operations. 
+Sort a random list of integers using the smallest number of moves, 2 stacks and a limited set of operations.
+You start with two empty stacks: a and b. You are given a random list of integers via command line arguments. 
 
-
-# You start with two empty stacks: a and b. You are given a random list of integers via command line arguments. 
-
-
-# Only these moves are allowed:
-
+Only these moves are allowed:\n
 sa : swap a - swap the first 2 elements at the top of stack a. Do nothing if there is only one or no elements).
 sb : swap b - swap the first 2 elements at the top of stack b. Do nothing if there is only one or no elements).
 ss : sa and sb at the same time.

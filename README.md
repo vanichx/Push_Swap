@@ -1,6 +1,6 @@
 # Push_Swap
 
-First of all I want to say that the algotithm it self not perfect , in some cases with 500 random numbers it give more than 5500 moves, but generally it works fine , in this project two programs in one repo, i have created extra rules in Makefile that i dont have any conflicts between two main functions.
+First of all I want to say that the algotithm it self not perfect , in some cases with 500 random numbers it give more than 5500 moves, but generally it works fine , in this project two programs in one repo, I have created extra rules in Makefile that I dont have any conflicts between two main functions.
 
 Project doesnt have any memory leaks, I have check them by the help of (valgrind --leak-check=full -s) command.
 
